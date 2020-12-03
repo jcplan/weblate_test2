@@ -61,4 +61,7 @@
   <data name="surface_calculation" xml:space="preserve">
     <value>Surface Calculation</value>
   </data>
+  <data name="created_in_weblate" xml:space="preserve">
+    <value>In Weblate erstellt.</value>
+  </data>
 </root>
